@@ -1,5 +1,5 @@
-watmm-ae
-========
+ae
+==
 
 autechre did an interview on watmm but it goes on for pages and would be impossible to skim. these scripts scrape the board and filter out just rob and seans posts. it could probably be adapted to scrape any phpbb type contraption.
 
