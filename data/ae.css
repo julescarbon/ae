@@ -1,0 +1,20 @@
+th {
+  width: 100px;
+  white-space: no-wrap;
+}
+blockquote {
+  color: #888;
+  margin-left: 0;
+  padding-left: 5px;
+  margin-top: 0;
+  margin-left: 10px;
+  border-left: 2px solid #ddd;
+  font-style: italic;
+}
+iframe {
+  display: none;
+}
+p {
+  width: 600px;
+  margin: 4px;
+}
