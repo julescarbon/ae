@@ -9,3 +9,4 @@ autechre did an interview on watmm but it goes on for pages and would be impossi
 4. `node json` - processes the post html into a json structure
 5. `node ae` - pulls out the posts you want to read
 
+read the ae here → → → http://asdf.us/ae/
